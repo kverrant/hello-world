@@ -15,3 +15,7 @@ Test repository -  learn GitHub
 • commits - saved changes
   - each commit has a commit message which explains what was changed and why
    
+• pull request - proposing changes and requesting that someone reviews them and merge
+  - shows diff or differences of the content from both branches
+  - changes are shown in red and green
+  - you can open a pull request and merge yourself
